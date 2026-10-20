@@ -1,0 +1,5 @@
+C:\Users\BC-STUDENT\Desktop\605115_DeolalNedhil\VehicleServiceBookingSystem\VehicleServiceBookingSystem\obj\Debug\VehicleServiceBookingSystem.csproj.AssemblyReference.cache
+C:\Users\BC-STUDENT\Desktop\605115_DeolalNedhil\VehicleServiceBookingSystem\VehicleServiceBookingSystem\obj\Debug\VehicleServiceBookingSystem.Form1.resources
+C:\Users\BC-STUDENT\Desktop\605115_DeolalNedhil\VehicleServiceBookingSystem\VehicleServiceBookingSystem\obj\Debug\VehicleServiceBookingSystem.Properties.Resources.resources
+C:\Users\BC-STUDENT\Desktop\605115_DeolalNedhil\VehicleServiceBookingSystem\VehicleServiceBookingSystem\obj\Debug\VehicleServiceBookingSystem.csproj.GenerateResource.cache
+C:\Users\BC-STUDENT\Desktop\605115_DeolalNedhil\VehicleServiceBookingSystem\VehicleServiceBookingSystem\obj\Debug\VehicleServiceBookingSystem.csproj.CoreCompileInputs.cache
